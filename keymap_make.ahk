@@ -10,4 +10,3 @@ m::left ;タスクバー7を起動
 #a::left
 #a::left
 #a::left
-#a::left
